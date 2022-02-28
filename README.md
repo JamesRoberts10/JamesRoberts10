@@ -1,5 +1,5 @@
 Hi there 👋
-🌱 I’m currently learning
+\n 🌱 I’m currently learning
 
 <!--
 **JamesRoberts10/JamesRoberts10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
