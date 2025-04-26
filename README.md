@@ -1,5 +1,4 @@
-I'm not a developer 🙈.
-<br/> Mostly used as a repository for useful security tools and for some small projects.
+Repository for security tools and personal projects.
 
 <!--
 **JamesRoberts10/JamesRoberts10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
